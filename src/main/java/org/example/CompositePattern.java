@@ -2,6 +2,9 @@ package org.example;
 
 import java.util.List;
 
+/**
+ * Composite design pattern is used to void if else conditions by using polymophism
+ */
 public class CompositePattern { //this represents hierarchy
 
   interface Node {
